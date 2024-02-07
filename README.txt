@@ -4,5 +4,3 @@ y la correción de errores que fuí haciendo a lo largo de ese cuatrimestre.
 
 El fin de incluirlo en mi perfil es demostrar que tengo experiencia en el uso y el análisis
 de las estructuras de datos y los algoritmos mas usados.
-
-Cabe destacar que la materia tenía muchísima teoría, esto es solo una parte de lo que aprendí.
