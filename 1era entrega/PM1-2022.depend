@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664414924 source:c:\users\axeli\desktop\pm1-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

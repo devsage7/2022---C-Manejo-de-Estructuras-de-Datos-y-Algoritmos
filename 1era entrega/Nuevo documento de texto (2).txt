@@ -1,0 +1,45 @@
+	Documento: 21096168	
+        Nombre: Marianela Cirianni	122
+        Telefono: 153-4221812
+        Monto vendido: $121547.35
+        Cantidad vendida: 21
+        Canal de venta: CATALOGO
+        --------------
+	Documento: 49913512
+        Nombre: Marcelo Sanchez Sorondo
+        Telefono: 261-4967890
+        Monto vendido: $12547.15
+        Cantidad vendida: 410
+        Canal de venta: PORTAL VENTAS WEB
+        --------------
+	Documento: 45727880
+        Nombre: Dario Sztajnszrajber
+        Telefono: 251-6267214
+        Monto vendido: $662547.56
+        Cantidad vendida: 4251
+        Canal de venta: PORTAL VENTAS WEB
+        --------------
+	Documento: 47175925
+        Nombre: Dolores Mansilla
+        Telefono: 266-6267895
+        Monto vendido: $32547.75
+        Cantidad vendida: 413
+        Canal de venta: PORTAL VENTAS WEB
+        --------------
+        
+	Documento: 43728654
+        Nombre: Remedios Sivori
+        Telefono: 277-4267896
+        Monto vendido: $72547.65
+        Cantidad vendida: 449
+        Canal de venta: PORTAL VENTAS WEB
+        --------------
+
+
+20069172
+26252069
+26704464
+23087676
+        
+        
+        

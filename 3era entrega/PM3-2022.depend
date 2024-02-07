@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666288144 source:c:\users\axeli\desktop\pm3-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1667180132 source:c:\users\axeli\desktop\eda-2022\pm3-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666207279 source:c:\users\axeli\desktop\pmi2-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1666207279 source:c:\users\axeli\desktop\job\proyectos\2022 - c - manejo de estructuras de datos, cálculo y análisis de los costos de cada estructura, algoritmos de búsqueda\2da entrega\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
